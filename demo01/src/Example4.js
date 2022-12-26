@@ -8,7 +8,7 @@ function Counter(){
     return (<h2>{count}</h2>)
 }
 
-function  Example(){
+function  Example4(){
     const [count,setCount]=useState(0)
 
         return (
@@ -21,4 +21,4 @@ function  Example(){
             </div>
         );
 }
-export default Example;
+export default Example4;
